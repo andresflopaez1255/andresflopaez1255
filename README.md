@@ -6,7 +6,7 @@ I know about mobile development and other technologies such as web development w
 
 Skills: VUE JS / REACT / REACT NATIVE , KOTLIN
 
-- 🔭 I’m currently working on Systemico SA, Programate  
+- 🔭 I’m currently working on SoftwareOne Intergrupo 
 - 🌱 I’m currently learning Kotlin, Node.js and swift 
 - 💬 Ask me about Mobile development, Web development 
 
