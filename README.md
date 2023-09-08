@@ -1,15 +1,51 @@
-### Hi there 👋, I am andres florez
-#### *Software developer*
-![*Software developer*](https://i.ytimg.com/vi/sBa_oOWLCIY/maxresdefault.jpg)
+# Tu Nombre
 
-I know about mobile development and other technologies such as web development with React.js, Vue.js 
+## Acerca de Mí
 
-Skills: VUE JS / REACT / REACT NATIVE , KOTLIN
+¡Hola! Soy [Tu Nombre], un apasionado por la programación y la tecnología. Me encanta trabajar en proyectos desafiantes y aprender constantemente. Mi objetivo es contribuir a la comunidad de código abierto y compartir conocimientos con otros desarrolladores.
 
-- 🔭 I’m currently working on SoftwareOne Intergrupo 
-- 🌱 I’m currently learning Kotlin, Node.js and swift 
-- 💬 Ask me about Mobile development, Web development 
+## Experiencia
 
+- **Desarrollador de Software** en [Nombre de la Empresa] (Año de Inicio - Año de Finalización)
+  - Responsabilidades y logros destacados en este puesto.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/andresflopaez1255)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andres-florez-111595197/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anflo12/anflo12)  
+- **Desarrollador Web** en [Nombre de la Empresa] (Año de Inicio - Año de Finalización)
+  - Breve descripción de tus responsabilidades y logros en este puesto.
+
+## Proyectos Destacados
+
+### [Nombre del Proyecto]
+
+- Descripción breve del proyecto.
+- Tecnologías utilizadas.
+- Enlace al repositorio del proyecto si está disponible.
+
+### [Nombre del Proyecto]
+
+- Descripción breve del proyecto.
+- Tecnologías utilizadas.
+- Enlace al repositorio del proyecto si está disponible.
+
+## Educación
+
+- **Título Universitario en Informática** en [Nombre de la Universidad] (Año de Graduación)
+- Cursos en línea y certificaciones relevantes, si las tienes.
+
+## Habilidades
+
+- Lenguajes de Programación: Python, JavaScript, Java, etc.
+- Tecnologías Web: HTML, CSS, React, Node.js, etc.
+- Base de Datos: SQL, MongoDB, Firebase, etc.
+- Herramientas de Desarrollo: Git, VS Code, Docker, etc.
+
+## Contacto
+
+- LinkedIn: [Enlace a tu perfil de LinkedIn](URL de tu perfil de LinkedIn)
+- Correo Electrónico: [Tu dirección de correo electrónico](mailto:tuemail@example.com)
+
+## Contribuciones de Código Abierto
+
+Puedes encontrar algunas de mis contribuciones de código abierto en mi perfil de GitHub: [Enlace a tu perfil de GitHub](URL de tu perfil de GitHub).
+
+¡No dudes en contactarme si quieres trabajar en proyectos interesantes juntos o simplemente charlar sobre tecnología!
 
