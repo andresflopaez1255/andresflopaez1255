@@ -24,7 +24,7 @@ Soy un apasionado desarrollador de software con un amor por la creatividad y la 
 
 ## Contacto
 
-- **LinkedIn:** [Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/andres-florez-111595197/)
+- [LinkedIn](https://www.linkedin.com/in/andres-florez-111595197/)
 
 
 ## ¡Hablemos!
