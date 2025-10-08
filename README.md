@@ -1,35 +1,61 @@
 <!-- Imagen de Portada -->
 ![Portada](https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
 
-# Hola, Soy Andres Florez👋
+# 👋 ¡Hola! Soy **Andrés Flórez**
 
-## Acerca de Mí
+💻 **Desarrollador de software** enfocado en crear experiencias digitales que inspiren, funcionen y sorprendan.  
+Mi motor es la **curiosidad** y mi objetivo: construir soluciones que realmente **impacten**.
 
-Soy un apasionado desarrollador de software con un amor por la creatividad y la resolución de problemas. Disfruto trabajando en proyectos desafiantes y explorando nuevas tecnologías. Mi objetivo es hacer del mundo un lugar mejor a través del código.
+---
 
-🌱 Actualmente estoy aprendiendo Swift.
-🚀 Estoy buscando colaborar en proyectos de código abierto.
+## 🚀 Sobre mí
 
+✨ Me apasiona el código, pero aún más lo que puede lograrse con él: transformar ideas en realidad.  
+📚 Actualmente aprendiendo **Swift** y explorando el mundo del desarrollo móvil.  
+🤝 Abierto a colaborar en **proyectos open source** o startups tecnológicas con propósito.  
+🎯 Filosofía: *“El mejor código no solo funciona, también se entiende.”*
 
+---
 
+## 🧠 Tecnologías y Herramientas
 
+### 💬 Lenguajes
+- React Native ⚛️  
+- Flutter 💙  
+- JavaScript / TypeScript  
+- Node.js 🟢  
 
-## Habilidades
+### 🧰 Herramientas
+- Git & GitHub  
+- VS Code  
+- Docker  
+- Firebase / Supabase  
+- Postman  
 
-- **Lenguajes de Programación:** React Native, Flutter,.
-- **Tecnologías Web:**  Node.js.
-- **Herramientas de Desarrollo:** Git, VS Code, Docker, etc.
+---
 
+## 🧩 Mis proyectos favoritos
+🔹 [Manager Accounts](https://github.com/andresflopaez1255/manager_accounts) – App para gestión de cuentas de streaming con enfoque en UX/UI.  
+🔹 *(Agrega aquí otros dos proyectos destacados con una breve descripción para darle más peso visual y mostrar tu experiencia)*  
 
+---
 
-## Contacto
+## 🌐 Conecta conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/andres-florez-111595197/)
+📫 **LinkedIn:** [andres-florez-111595197](https://www.linkedin.com/in/andres-florez-111595197/)  
+📸 **Instagram (opcional):** [@tuusuario](https://instagram.com/tuusuario)  
+💼 **Portafolio:** *(Agrega tu enlace si ya lo tienes o estás creándolo)*  
 
+---
 
-## ¡Hablemos!
+## ☕ Un último detalle
 
-¡Me encantaría conectar contigo! Si tienes alguna pregunta, idea para colaborar o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
+> “El código es solo el lenguaje; la creatividad es el mensaje.”  
+> — *Andrés Flórez*
+
+✨ ¡Gracias por visitar mi perfil! Si te gusta lo que ves, dale una ⭐ a algún repo o escríbeme para charlar sobre ideas, desarrollo o café ☕.
+
+---
 
 
 
