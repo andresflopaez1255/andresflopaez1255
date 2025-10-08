@@ -42,9 +42,9 @@ Mi motor es la **curiosidad** y mi objetivo: construir soluciones que realmente 
 
 ## 🌐 Conecta conmigo
 
-📫 **LinkedIn:** [andres-florez-111595197](https://www.linkedin.com/in/andres-florez-111595197/)  
+📫 **LinkedIn:** [andres-florez](https://www.linkedin.com/in/andres-florez-111595197/)  
 📸 **Instagram (opcional):** [@tuusuario](https://instagram.com/tuusuario)  
-💼 **Portafolio:** *(Agrega tu enlace si ya lo tienes o estás creándolo)*  
+💼 **Portafolio:** [Portafolio](https://andresflorez-portafolio.site/)    
 
 ---
 
