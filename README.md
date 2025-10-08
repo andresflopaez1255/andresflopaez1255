@@ -47,7 +47,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|-------------|
-| [**Manager Accounts**](https://github.com/andresflopaez1255/manager_accounts) | App para la gestión de cuentas y perfiles de streaming. Enfocada en UX/UI, control de usuarios y rendimiento. | React Native • Node.js |
+| [**Manager Accounts**](https://github.com/andresflopaez1255/manager_accounts) | App para la gestión de cuentas y perfiles de streaming. Enfocada en UX/UI, control de usuarios y rendimiento. | Flutter • Node.js |
 | [**Recipes App v2**](https://github.com/andresflopaez1255/recipes_appv2) | Aplicación móvil para explorar, guardar y gestionar recetas con API externa y diseño moderno. | Flutter • Dart |
 | [**Account API**](https://github.com/andresflopaez1255/accountApi) | API REST para autenticación y manejo de usuarios, construida con arquitectura limpia y conexión a MongoDB. | Node.js • Express • MongoDB |
 
